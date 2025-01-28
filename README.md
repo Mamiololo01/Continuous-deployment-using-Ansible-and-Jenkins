@@ -36,7 +36,7 @@ The architecture of the continuous deployment pipeline consists of the following
 +-----------+     +---------+     +-----------------+
 
 
-### Setup and Installation
+Setup and Installation
 
 To set up and run the continuous deployment pipeline, follow these steps:
 
@@ -110,7 +110,7 @@ Verify the Deployment:
 
 Ensure that the application is deployed correctly on the target servers.
 
-### Contributing
+Contributing
 
 We welcome contributions to this project. Please follow these steps to contribute:
 
